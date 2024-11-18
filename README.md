@@ -39,7 +39,7 @@
 | 人工智能     | ChatGPT(openai)/Gemini(Google)/Claude  | 三者都被屏蔽                           |
 | 翻译软件     | DeepL/Google翻译                       | DeepL处理亚洲地区语言要比Google优秀    |
 | 视频网站     | Bilibili/YouTube(被屏蔽)               |                                        |
-| 电子邮箱     | Google邮箱(被屏蔽)/微软邮箱/网易邮箱   |                                        |
+| 电子邮箱     | Google邮箱(被屏蔽)/微软邮箱/网易邮箱   | 不推荐使用QQ邮箱，因为一旦QQ被封，则邮箱也无法使用                                       |
 |              |                                        |                                        |
 |              |                                        |                                        |
 
